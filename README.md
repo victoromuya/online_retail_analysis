@@ -2,11 +2,13 @@
 
 An end-to-end data analysis project that cleans online retail transactions, explores sales trends, and presents insights in an interactive Streamlit dashboard.
 
+**Live dashboard:** [Retail Intelligence Dashboard](https://retailonline.streamlit.app/)
+
 ## What's included
 
-- `Raw_Online_Retail.xlsx`: source transaction data.
+- [Raw_Online_Retail.xlsx](Raw_Online_Retail.xlsx): source transaction data.
 - `online_retail.ipynb` and `ONLINE_RETAIL_PROJECT.ipynb`: data cleaning, feature engineering, and exploratory analysis.
-- `cleaned_online_retail.csv`: prepared dataset used by the dashboard.
+- [cleaned_online_retail.csv](cleaned_online_retail.csv): prepared dataset used by the dashboard.
 - `app.py`: dashboard with sales overview, product rankings, customer analysis, time trends, and a searchable data explorer.
 
 ## Run the dashboard
